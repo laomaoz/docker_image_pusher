@@ -5,4 +5,4 @@ elasticsearch:7.13.3
 nginx:latest
 fauria/vsftpd:latest
 zlmediakit/zlmediakit:master
-nacos:2.4.0
+nacos/nacos-server:2.4.0
