@@ -1,7 +1,8 @@
-nacos:2.4.0
+
 mysql:8.0.35
 redis:latest
 elasticsearch:7.13.3
 nginx:latest
 fauria/vsftpd:latest
 zlmediakit/zlmediakit:master
+nacos:2.4.0
