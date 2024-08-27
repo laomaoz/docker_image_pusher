@@ -1,4 +1,4 @@
-nacos-server:2.4.0
+nacos:2.4.0
 mysql:8.0.35
 redis:latest
 elasticsearch:7.13.3
